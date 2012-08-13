@@ -1,17 +1,20 @@
-# MPCC Connect API Documentation
+# MPCC API Documentation
 
 ## Getting Started
 
-* Get an auth token to access resources, see _auth documentation_().
-* Reference available APIs, see _resources_().
+* Get an auth token to access resources, see [_auth_]() documentation.
+* Reference available APIs, see [_resource_]() documentation.
 
 ## Table of Contents
 
-* Auth Service
-* Resources
-+ Member
-+ Family
-+ Notification
+* Auth Documentation	
+	* Version 1
+		* [Auth]()
+* Resource Documentation
+	* Version 1
+		* [Member]()
+		* [Family]()
+		* [Notification]()
 
 ## Authors
 
