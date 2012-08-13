@@ -2,16 +2,16 @@
 
 ## Getting Started
 
-* Get an auth token to access resources, see [_auth_]() documentation.
-* Reference available APIs, see [_resource_]() documentation.
+* Get an auth token to access resources, see [_auth_](/MPCC/MPCC-API-DOC/blob/master/Auth/README.md) documentation.
+* Reference available APIs, see [_resource_](/MPCC/MPCC-API-DOC/blob/master/Resources/README.md) documentation.
 
 ## Table of Contents
 
-* Auth Documentation	
+* [Auth Documentation](/MPCC/MPCC-API-DOC/blob/master/Auth/README.md)	
 	* Version 1
 		* [Auth](/MPCC/MPCC-API-DOC/blob/master/Auth/v1/Auth.md)
 		
-* Resource Documentation
+* [Resource Documentation](/MPCC/MPCC-API-DOC/blob/master/Resources/README.md)
 	* Version 1
 		* [Member](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Member.md)
 		* [Family](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Family.md)

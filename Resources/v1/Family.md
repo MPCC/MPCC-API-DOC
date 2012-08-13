@@ -1,4 +1,4 @@
-# Auth Documentation
+# Family Documentation
 
 * Create a Family
 

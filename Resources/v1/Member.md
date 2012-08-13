@@ -1,4 +1,4 @@
-# Auth Documentation
+# Member Documentation
 
 * Get a Member
 
@@ -7,5 +7,3 @@
 * Update a Member
 
 * Change Password
-
-*

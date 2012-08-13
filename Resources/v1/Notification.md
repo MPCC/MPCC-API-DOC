@@ -1,4 +1,4 @@
-# Auth Documentation
+# Notification Documentation
 
 * Get Notifications
 
