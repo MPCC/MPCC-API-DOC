@@ -15,6 +15,11 @@
 
 ## Authors
 
-**Eric Jones** [github.com/erjjones](https://github.com/erjjones), [@erjjones](http://twitter.com/erjjones), [blog](http://erjjones.github.com/)
+**Eric Jones** 
 
-**Iulian Mihai** [github.com/iulianmihai](https://github.com/iulianmihai)
++ [github.com/erjjones](https://github.com/erjjones)
++ [twitter.com/erjjones](http://twitter.com/erjjones)
+
+**Iulian Mihai** 
+
++ [github.com/iulianmihai](https://github.com/iulianmihai)
