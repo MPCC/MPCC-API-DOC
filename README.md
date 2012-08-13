@@ -15,5 +15,6 @@
 
 ## Authors
 
-** Eric Jones ** [github.com/erjjones](https://github.com/erjjones), [@erjjones](http://twitter.com/erjjones), [blog](http://erjjones.github.com/)
-** Iulian Mihai ** [github.com/iulianmihai](https://github.com/iulianmihai)
+**Eric Jones** [github.com/erjjones](https://github.com/erjjones), [@erjjones](http://twitter.com/erjjones), [blog](http://erjjones.github.com/)
+
+**Iulian Mihai** [github.com/iulianmihai](https://github.com/iulianmihai)
