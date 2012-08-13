@@ -9,12 +9,13 @@
 
 * Auth Documentation	
 	* Version 1
-		* [Auth]()
+		* [Auth](/MPCC/MPCC-API-DOC/blob/master/Auth/v1/Auth.md)
+		
 * Resource Documentation
 	* Version 1
-		* [Member]()
-		* [Family]()
-		* [Notification]()
+		* [Member](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Member.md)
+		* [Family](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Family.md)
+		* [Notification](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Notification.md)
 
 ## Authors
 
