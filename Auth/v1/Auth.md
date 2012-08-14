@@ -2,7 +2,7 @@
 
 ## Retrieve a Token
 
-Returns a oauth token for a given account context.
+Returns an oauth token for a given account context.
 
 ### URL
 > POST /auth/v1/tokenrequest
@@ -44,6 +44,7 @@ Returns a oauth token for a given account context.
 }
 ```
 
+> Response
 ```js
 {
 	"oauth_timestamp":"2012-07-16T17:23:34Z",
@@ -95,6 +96,7 @@ Returns a oauth token for a given account context.
 }
 ```
 
+> Response
 ```js
 {
 	"oauth_timestamp":"2012-08-16T17:23:34Z",
@@ -153,6 +155,7 @@ Returns a oauth token for a given account context.
 }
 ```
 
+> Response
 ```js
 {
 	"oauth_timestamp":"2012-07-16T17:23:34Z",
@@ -241,6 +244,7 @@ Triggers the system password reset process for a given email. Only available thr
 }
 ```
 
+> Response
 ```js
 {
 	"message":"String content"
