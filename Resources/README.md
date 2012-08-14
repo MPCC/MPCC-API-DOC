@@ -121,6 +121,44 @@
     </tbody>
 </table>
 
+## [Notification/v1](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Notification.md)
+<table>
+    <thead>
+        <tr>
+            <th>Path</th>
+            <th>HTTP Method</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>/notification/v1/{id}</td>
+            <td>GET</td>
+            <td><a href="/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Notification.md#retrieve-a-notification">Retrieve a Notification</a></td>
+        </tr>			
+        <tr>
+            <td>/notification/v1/?index={index}&paging={paging}</td>
+            <td>GET</td>
+            <td><a href="/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Notification.md#retrieve-a-collection-of-notification">Retrieve a collection of Notification</a></td>
+        </tr>
+		<tr>
+            <td>/notification/v1/sent?index={index}&paging={paging}</td>
+            <td>GET</td>
+            <td><a href="/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Notification.md#retrieve-a-collection-of-sent-notification">Retrieve a collection of Sent Notification</a></td>
+        </tr>		
+		<tr>
+            <td>/notification/v1/</td>
+            <td>POST</td>
+            <td><a href="/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Notification.md#create-a-notification">Create a Notification</a></td>
+        </tr>		
+		<tr>
+            <td>/notification/v1/{id}/cancel</td>
+            <td>POST</td>
+            <td><a href="/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Notification.md#cancel-a-notification">Cancel a Notification</a></td>
+        </tr>		
+    </tbody>
+</table>
+
 ## Current Releases
 
 * Version 1 or `v1` 
