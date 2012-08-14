@@ -1,7 +1,5 @@
 # Notification/v1 Documentation
 
-* Cancel a Notification
-
 ## Retrieve a collection of Notifications
 
 Returns a collection of Notification objects.
