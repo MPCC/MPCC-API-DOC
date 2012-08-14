@@ -7,10 +7,10 @@
 
 ## Table of Contents
 
-* [Auth Documentation](/MPCC/MPCC-API-DOC/blob/master/Auth/README.md)	
+### [Auth Documentation](/MPCC/MPCC-API-DOC/blob/master/Auth/README.md)	
 	* [Auth/v1](/MPCC/MPCC-API-DOC/blob/master/Auth/v1/Auth.md)		
 
-* [Resource Documentation](/MPCC/MPCC-API-DOC/blob/master/Resources/README.md)
+### [Resource Documentation](/MPCC/MPCC-API-DOC/blob/master/Resources/README.md)
 	* [Member/v1](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Member.md)
 	* [Family/v1](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Family.md)
 	* [Notification/v1](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Notification.md)

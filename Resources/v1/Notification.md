@@ -284,7 +284,7 @@ Creates a Notification object.
 Terminates a specific Notification object.
 
 ### URL
-> GET /notification/v1/{id}/cancel
+> POST /notification/v1/{id}/cancel
 
 ### Parameters
 
@@ -309,4 +309,4 @@ Terminates a specific Notification object.
 
 ### Example
 
-> GET http://localhost/rest/notification/v1/231234/cancel
+> POST http://localhost/rest/notification/v1/231234/cancel
