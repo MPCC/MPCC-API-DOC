@@ -8,12 +8,14 @@
 ## Table of Contents
 
 `v1`
-	* [Auth Documentation](/MPCC/MPCC-API-DOC/blob/master/Auth/README.md)	
-		* [Auth](/MPCC/MPCC-API-DOC/blob/master/Auth/v1/Auth.md)		
-	* [Resource Documentation](/MPCC/MPCC-API-DOC/blob/master/Resources/README.md)
-		* [Member](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Member.md)
-		* [Family](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Family.md)
-		* [Notification](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Notification.md)
+
+* [Auth Documentation](/MPCC/MPCC-API-DOC/blob/master/Auth/README.md)	
+	* [Auth](/MPCC/MPCC-API-DOC/blob/master/Auth/v1/Auth.md)		
+
+* [Resource Documentation](/MPCC/MPCC-API-DOC/blob/master/Resources/README.md)
+	* [Member](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Member.md)
+	* [Family](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Family.md)
+	* [Notification](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Notification.md)
 
 ## Authors
 
