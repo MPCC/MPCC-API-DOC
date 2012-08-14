@@ -1,4 +1,4 @@
-# Auth Documentation
+# Auth/v1 Documentation
 
 ## Retrieve a Token
 
