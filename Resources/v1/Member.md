@@ -164,7 +164,7 @@ Updates a specific Member object.
 
 ### Example
 
-> GET http://localhost/rest/member/v1/123
+> POST http://localhost/rest/member/v1/123
 ```js
 {	
 	"Apt":"String content",
