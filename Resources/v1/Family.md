@@ -1,13 +1,5 @@
 # Family/v1 Documentation
 
-* Delete a Family
-
-* Get Family Members
-
-* Add a Family Member
-
-# Family/v1 Documentation
-
 ## Retrieve a Family
 
 Returns a specific Family object.
@@ -305,7 +297,7 @@ Delete a specific Family object.
 
 > DELETE http://localhost/rest/family/v1/123
 
-## Add members to a family
+## Add a member to a family
 
 Add a specific member to a family
 
@@ -347,7 +339,7 @@ Add a specific member to a family
 
 ## Retrieve a collection of Members in a Family
 
-Returns a collection of Member objects in a Family.
+Retrieve a collection of Member objects in a Family.
 
 ### URL
 > GET /family/v1/{id}/members?index={index}&paging={paging}
