@@ -7,21 +7,21 @@
 
 ## Table of Contents
 
-`v1`
-
 * [Auth Documentation](/MPCC/MPCC-API-DOC/blob/master/Auth/README.md)	
-	* [Auth](/MPCC/MPCC-API-DOC/blob/master/Auth/v1/Auth.md)		
+	* [Auth/v1](/MPCC/MPCC-API-DOC/blob/master/Auth/v1/Auth.md)		
 
 * [Resource Documentation](/MPCC/MPCC-API-DOC/blob/master/Resources/README.md)
-	* [Member](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Member.md)
-	* [Family](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Family.md)
-	* [Notification](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Notification.md)
+	* [Member/v1](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Member.md)
+	* [Family/v1](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Family.md)
+	* [Notification/v1](/MPCC/MPCC-API-DOC/blob/master/Resources/v1/Notification.md)
 
 ## Authors
 
 **Eric Jones** 
-	+ [github.com/erjjones](https://github.com/erjjones)
-	+ [twitter.com/erjjones](http://twitter.com/erjjones)
+
++ [github.com/erjjones](https://github.com/erjjones)
++ [twitter.com/erjjones](http://twitter.com/erjjones)
 
 **Iulian Mihai** 
-	+ [github.com/iulianmihai](https://github.com/iulianmihai)
+	
++ [github.com/iulianmihai](https://github.com/iulianmihai)
