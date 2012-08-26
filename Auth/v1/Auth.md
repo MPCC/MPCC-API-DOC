@@ -127,19 +127,19 @@ Returns a oauth token for a given account context.
             <td>password</td>
             <td>Required</td>
             <td>string</td>
-            <td>The member password.</td>
+            <td>The member password. Must be atleast 6 alpha numeric characters.</td>
         </tr>
 		<tr>
             <td>username</td>
             <td>Required</td>
             <td>string</td>
-            <td>The member username.</td>
+            <td>The member username. Must be atleast 6 alpha numeric characters.</td>
         </tr>
 		<tr>
             <td>email</td>
             <td>Required</td>
             <td>string</td>
-            <td>The member email.</td>
+            <td>The member email. Must be a valid email address.</td>
         </tr>
     </tbody>
 </table>
