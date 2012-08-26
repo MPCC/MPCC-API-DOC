@@ -27,8 +27,6 @@ Dates will be formatted as a **strict** subset of [ISO 8601](http://en.wikipedia
 
 Where `2012` is the year, `12` represents December, `31` represents the 31st day of the month, `13` represents 1 PM, `22` minutes and `55` seconds past the hour. All times will be expressed in terms of UTC.
 
-This format was chosen to minimize ambiguity and edge cases in terms of parsing while maximizing readability of dates during development.
-
 ## Authors
 
 **Eric Jones** 
