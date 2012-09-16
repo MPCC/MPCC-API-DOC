@@ -7,7 +7,7 @@ Returns a specific Member object.
 ### URL
 > GET /member/v1/{id}
 
-> GET /member/v1/me _(coming soon)_
+> GET /member/v1/me
 
 ### Parameters
 
